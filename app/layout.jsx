@@ -9,7 +9,6 @@ export const metadata = {
   keywords: 'GitHub, arama, kullanıcı, depo, arama uygulaması',
   author: 'Ahmet Semih Dur',
   image: "https://ahmetsedur.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FprofilePicture.f562554e.png&w=256&q=75", // Paylaşılacak önizleme görseli (Facebook, Twitter vb. için)
-  url: 'https://githubarama.vercel.app/', // Sayfanın URL'si
 }
 
 export default function RootLayout({ children }) {
